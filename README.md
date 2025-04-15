@@ -11,7 +11,7 @@
 
 ## 📖 Introduction
 
-Welcome to my SQL prep hub for AI/ML interviews! 🚀 This repo, built by an MTech AI/ML student, is designed to help you master SQL—the backbone of data management in machine learning. Whether you’re gearing up for technical interviews or boosting your data skills for AI projects, this resource covers essentials to advanced topics with clarity and depth.
+Welcome to my SQL prep for AI/ML interviews! 🚀 This repository is your essential guide for mastering SQL, the cornerstone of data management, with hands-on queries and interview-focused practice. From core fundamentals to advanced techniques, it’s crafted to help you shine in technical interviews and data-driven projects with clarity and confidence.
 
 ## 🌟 What’s Inside?
 
