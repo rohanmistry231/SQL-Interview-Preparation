@@ -8,5 +8,109 @@ Hey there! This repo is my hub for SQL prep, crucial for handling data in AI/ML 
 - **Coding Practice**: SQL queries to build fluency.
 - **Interview Questions**: Key concepts explained simply.
 
+## 🗺️ Roadmap
+- **Data Query Language (DQL)**
+  - SELECT Operations
+    - SELECT Statement
+    - DISTINCT
+    - WHERE Clause
+    - LIKE Operator
+    - Wildcard Operators
+    - IN Operator
+    - BETWEEN Operator
+    - IS NULL
+    - AND, OR, NOT
+  - Sorting and Limits
+    - ORDER BY
+    - LIMIT
+    - OFFSET
+    - TOP
+  - Subqueries
+    - Single-Row Subqueries
+    - Multi-Row Subqueries
+    - Correlated Subqueries
+    - Nested Subqueries
+  - Conditional Logic
+    - CASE Statements
+    - COALESCE
+    - NULLIF
+- **Data Manipulation Language (DML)**
+  - INSERT
+    - Single Row Insert
+    - Multiple Row Insert
+    - Insert from SELECT
+  - UPDATE
+    - Single Column Update
+    - Multiple Column Update
+    - Update with Conditions
+  - DELETE
+    - Delete with Conditions
+    - Delete All Rows
+- **Data Definition Language (DDL)**
+  - Tables
+    - CREATE TABLE
+    - ALTER TABLE
+    - DROP TABLE
+    - TRUNCATE TABLE
+  - Constraints
+    - Primary Key
+    - Foreign Key
+    - Unique
+    - NOT NULL
+    - CHECK
+    - DEFAULT
+  - Views
+    - CREATE VIEW
+    - ALTER VIEW
+    - DROP VIEW
+- **Data Control Language (DCL)**
+  - GRANT
+    - Grant Permissions
+    - Grant Roles
+  - REVOKE
+    - Revoke Permissions
+    - Revoke Roles
+- **Transaction Control Language (TCL)**
+  - COMMIT
+  - ROLLBACK
+  - SAVEPOINT
+  - SET TRANSACTION
+- **Joins and Aggregations**
+  - Joins
+    - INNER JOIN
+    - LEFT JOIN
+    - RIGHT JOIN
+    - FULL OUTER JOIN
+    - Self-Join
+    - Cross Join
+  - Aggregations
+    - COUNT
+    - SUM
+    - AVG
+    - MAX
+    - MIN
+    - GROUP BY
+    - HAVING Clause
+  - Set Operations
+    - UNION
+    - UNION ALL
+    - INTERSECT
+    - EXCEPT
+- **Stored Procedures**
+  - Creating Procedures
+  - Parameters
+  - Calling Procedures
+  - Dropping Procedures
+- **Triggers**
+  - Creating Triggers
+  - BEFORE Triggers
+  - AFTER Triggers
+  - Dropping Triggers
+- **Cursors**
+  - Declaring Cursors
+  - Opening Cursors
+  - Fetching Data
+  - Closing Cursors
+
 ## 💡 Why SQL?
 SQL is the go-to for managing and analyzing data, a must-know for AI/ML pros. This repo is my prep for nailing SQL interviews.
