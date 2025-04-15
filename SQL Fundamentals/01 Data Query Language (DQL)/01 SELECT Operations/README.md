@@ -44,7 +44,7 @@ Our SELECT Operations journey is broken down into **leaf nodes**, each focusing 
 | **In Operator** | Simplify filtering with the `IN` operator for multiple values. | [📂 06 In Operator](./06%20In%20Operator) |
 | **Between Operator** | Filter ranges of values efficiently with `BETWEEN`. | [📂 07 Between Operator](./07%20Between%20Operator) |
 | **Is Null** | Handle missing data with `IS NULL` and `IS NOT NULL`. | [📂 08 Is Null](./08%20Is%20Null) |
-| **And, Or, Not** | Combine conditions logically with `AND`, `OR`, and `NOT`. | [📂 09 And Or Not](./09%20And%20Or%20Not) |
+| **And, Or, Not** | Combine conditions logically with `AND`, `OR`, and `NOT`. | [📂 09 And Or Not](./09%20And,%20Or,%20Not) |
 
 ---
 
