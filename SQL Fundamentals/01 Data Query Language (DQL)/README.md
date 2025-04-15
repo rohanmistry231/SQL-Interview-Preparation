@@ -36,10 +36,10 @@ Our DQL journey is structured into **sub-nodes**, each diving deep into a critic
 
 | Sub-Node | Description | Folder Link |
 |----------|-------------|-------------|
-| **SELECT Operations** | Master the art of SELECT, filtering with WHERE, and operators like LIKE, IN, and BETWEEN. | [📂 01_SELECT_Operations](./01_SELECT_Operations) |
-| **Sorting and Limits** | Learn to order results with ORDER BY and limit outputs with LIMIT, OFFSET, and TOP. | [📂 02_Sorting_and_Limits](./02_Sorting_and_Limits) |
-| **Subqueries** | Unlock the power of nested queries, correlated subqueries, and multi-row operations. | [📂 03_Subqueries](./03_Subqueries) |
-| **Conditional Logic** | Explore CASE statements, COALESCE, and NULLIF for dynamic query logic. | [📂 04_Conditional_Logic](./04_Conditional_Logic) |
+| **SELECT Operations** | Master the art of SELECT, filtering with WHERE, and operators like LIKE, IN, and BETWEEN. | [📂 01 SELECT Operations](./01%20SELECT%20Operations) |
+| **Sorting and Limits** | Learn to order results with ORDER BY and limit outputs with LIMIT, OFFSET, and TOP. | [📂 02 Sorting and Limits](./02%20Sorting%20and%20Limits) |
+| **Subqueries** | Unlock the power of nested queries, correlated subqueries, and multi-row operations. | [📂 03 Subqueries](./03%20Subqueries) |
+| **Conditional Logic** | Explore CASE statements, COALESCE, and NULLIF for dynamic query logic. | [📂 04 Conditional_Logic](./04%20Conditional_Logic) |
 
 ---
 
